@@ -6,10 +6,10 @@
 Cette plante aussi appelée "catapulte" est une plante toxique qui peut tuer un humain en 30 secondes une fois touchée.
 Le seul antidote connu se trouve dans le Milkyway (1 portion).
 
-##Utilisation
+## Utilisation
 
 Elle permet de créer un biocarburant une fois digérée par un **Octomonto**.
 
-##Lien
+## Lien
 
 Utilisez votre Beacon Tracker afin de retrouver le speciement **Octomonto**.
