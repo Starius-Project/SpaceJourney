@@ -7,6 +7,7 @@ Animal à double personnalité. Souvent associé au pouple sur terre. Ne pas ouv
 
 ##Particularité
 Peut pondre des oeufs à écailles permettant d'alimenter un vaisseau entier une fois les crystaux raffinés ou de faire exploser une planète.
+
 ![Egg](/egg.png)
 
 ![cristaux](/cristaux.png)
