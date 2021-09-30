@@ -12,4 +12,4 @@ Elle permet de créer un biocarburant une fois digérée par un **Octomonto**.
 
 ## Lien
 
-Utilisez votre Beacon Tracker afin de retrouver le speciement **Octomonto**.
+Utilisez votre Beacon Tracker afin de detecter des traces d'**Octomonto**.
