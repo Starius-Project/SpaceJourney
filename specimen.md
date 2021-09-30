@@ -14,3 +14,7 @@ Peut pondre des oeufs à écailles permettant d'alimenter un vaisseau entier une
 
 ## Lien
 Utilisez votre Beacon Tracker afin de detecter des traces de cristaux raffinés.
+
+# NOTE IMPORTANTE
+
+## La créature doit être livrée le samedi 2 octobre à 15h30 afin d'éviter une autre catastrophe.
