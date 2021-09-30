@@ -1,5 +1,6 @@
 # Alien Plant
-![Plant](/plant.png)
+
+![Plant](/plant.jpg)
 
 ## Description
 Cette plante aussi appelée "catapulte" est une plante toxique qui peut tuer un humain en 30 secondes une fois touchée.
